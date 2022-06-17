@@ -1,6 +1,4 @@
 ### Hi there 👋
-
-# Farah-Ben-Lakhal
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif?cid=ecf05e47iqe4tzb4ejp8t9e7a72m0367svn7ayi3vc22v22n&rid=giphy.gif&ct=s" width="100"/>
 </div>
